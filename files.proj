@@ -8,5 +8,7 @@
 "./includefile.conf"
 "./prunefile.conf"
 "./prunefix.conf"
+"./rsync.files"
+"./run.sh"
 "./setup.cfg"
 "dev.gdio.diff"
